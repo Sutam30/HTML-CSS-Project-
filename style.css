@@ -16,7 +16,7 @@
     width:110px;
 }
 .logo{
-    background-image: url("amazon-logo (2).png");
+    /* background-image: url("all-images/amazon-logo (2).png"); */
     background-size: cover;
     height:60px;
     width:110%;
@@ -93,7 +93,6 @@ span{
     font-weight: 700;
 }
 
-
 .panel{
     height:40px;
     background-color: #232F3E;
@@ -117,7 +116,7 @@ span{
 
 /* hero section */
 .hero-section{
-    background-image: url("hero.jpg");
+    background-image: url("all-images/hero.jpg");
     background-size: cover;
     height:300px;
     display:flex;
@@ -247,7 +246,7 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image: url("amazon-logo (2).png");
+    background-image: url("all-images/amazon-logo (2).png");
     background-size: cover;
     height:50px;
     width:110px;
@@ -258,13 +257,13 @@ ul a{
     color:white;
     height:90px;
     text-align: center;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 }
 
 .pages{
-    padding:25px;
+    padding:10px;
 }
 
 .copy-right{
-    padding:5px;
+    padding:2px;
 }
